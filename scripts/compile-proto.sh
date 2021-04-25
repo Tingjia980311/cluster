@@ -17,7 +17,7 @@
 if [ -z "$(command -v protoc)" ]; then
   echo "The protoc tool is required before you can run Hydro locally."
   echo "Please install protoc manually, or use the scripts in" \
-    "hydro-project/common to install dependencies before proceeding."
+    "Tingjia980311/common to install dependencies before proceeding."
   exit 1
 fi
 

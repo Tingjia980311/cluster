@@ -31,4 +31,4 @@ spec:
   nodeLabels:
     role: gpu
   subnets:
-    - us-east-1a
+    - us-east-1f

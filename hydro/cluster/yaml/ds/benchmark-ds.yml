@@ -43,11 +43,11 @@ spec:
         - name: MGMT_IP
           value: ""
         - name: REPO_ORG
-          value: hydro-project
+          value: Tingjia980311
         - name: REPO_BRANCH
           value: master
         - name: ANNA_REPO_ORG
-          value: hydro-project
+          value: Tingjia980311
         - name: ANNA_REPO_BRANCH
           value: master
       - name: benchmark-2
@@ -62,11 +62,11 @@ spec:
         - name: MGMT_IP
           value: ""
         - name: REPO_ORG
-          value: hydro-project
+          value: Tingjia980311
         - name: REPO_BRANCH
           value: master
         - name: ANNA_REPO_ORG
-          value: hydro-project
+          value: Tingjia980311
         - name: ANNA_REPO_BRANCH
           value: master
       - name: benchmark-3
@@ -81,11 +81,11 @@ spec:
         - name: MGMT_IP
           value: ""
         - name: REPO_ORG
-          value: hydro-project
+          value: Tingjia980311
         - name: REPO_BRANCH
           value: master
         - name: ANNA_REPO_ORG
-          value: hydro-project
+          value: Tingjia980311
         - name: ANNA_REPO_BRANCH
           value: master
       - name: benchmark-4
@@ -100,10 +100,10 @@ spec:
         - name: MGMT_IP
           value: ""
         - name: REPO_ORG
-          value: hydro-project
+          value: Tingjia980311
         - name: REPO_BRANCH
           value: master
         - name: ANNA_REPO_ORG
-          value: hydro-project
+          value: Tingjia980311
         - name: ANNA_REPO_BRANCH
           value: master

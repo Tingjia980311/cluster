@@ -74,9 +74,9 @@ ENV HYDRO_HOME /hydro
 WORKDIR /hydro
 
 # Clone all the Hydro project repos here.
-RUN git clone --recurse-submodules https://github.com/hydro-project/anna
-RUN git clone --recurse-submodules https://github.com/hydro-project/anna-cache
-RUN git clone --recurse-submodules https://github.com/hydro-project/cloudburst
-RUN git clone --recurse-submodules https://github.com/hydro-project/cluster
+RUN git clone --recurse-submodules https://github.com/Tingjia980311/anna
+RUN git clone --recurse-submodules https://github.com/Tingjia980311/anna-cache
+RUN git clone --recurse-submodules https://github.com/Tingjia980311/cloudburst
+RUN git clone --recurse-submodules https://github.com/Tingjia980311/cluster.git
 
 WORKDIR /

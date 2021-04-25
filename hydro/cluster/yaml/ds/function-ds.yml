@@ -56,11 +56,11 @@ spec:
         - name: ROLE
           value: executor
         - name: REPO_ORG
-          value: hydro-project
+          value: Tingjia980311
         - name: REPO_BRANCH
           value: master
         - name: ANNA_REPO_ORG
-          value: hydro-project
+          value: hTingjia980311
         - name: ANNA_REPO_BRANCH
           value: master
         volumeMounts:
@@ -85,11 +85,11 @@ spec:
         - name: ROLE
           value: executor
         - name: REPO_ORG
-          value: hydro-project
+          value: Tingjia980311
         - name: REPO_BRANCH
           value: master
         - name: ANNA_REPO_ORG
-          value: hydro-project
+          value: Tingjia980311
         - name: ANNA_REPO_BRANCH
           value: master
         volumeMounts:
@@ -114,11 +114,11 @@ spec:
         - name: ROLE
           value: executor
         - name: REPO_ORG
-          value: hydro-project
+          value: Tingjia980311
         - name: REPO_BRANCH
           value: master
         - name: ANNA_REPO_ORG
-          value: hydro-project
+          value: Tingjia980311
         - name: ANNA_REPO_BRANCH
           value: master
         volumeMounts:
@@ -137,7 +137,7 @@ spec:
         - name: MGMT_IP
           value: MGMT_IP_DUMMY
         - name: REPO_ORG
-          value: hydro-project
+          value: Tingjia980311
         - name: REPO_BRANCH
           value: master
         volumeMounts:

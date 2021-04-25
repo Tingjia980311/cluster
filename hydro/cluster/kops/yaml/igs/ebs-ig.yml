@@ -28,7 +28,7 @@ spec:
   nodeLabels:
     role: ebs
   subnets:
-    - us-east-1a
+    - us-east-1f
   volumes:
     - device: /dev/xvdb
       encrypted: false
