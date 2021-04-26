@@ -60,7 +60,7 @@ spec:
         - name: REPO_BRANCH
           value: master
         - name: ANNA_REPO_ORG
-          value: hTingjia980311
+          value: Tingjia980311
         - name: ANNA_REPO_BRANCH
           value: master
         volumeMounts:
